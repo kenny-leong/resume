@@ -6,7 +6,7 @@ _Software engineer and founder based in New York City 🇪_ <br>
 
 ## 🏼‍💻 Engineering & Projects
 
-**Fullstack Software Engineer** @ [THREADIT](https://threadit.onrender.com/) _(Apr 2023 - Present)_ <br>
+**Fullstack Software Engineer** @ [Threadit](https://threadit.onrender.com/) _(Apr 2023 - Present)_ <br>
 Content sharing and discussion platform.
   - Developed full stack web application that enables users to share content, engage in discussions, and join communities
   - Employed Python and Flask to build the back-end, ensuring a robust and scalable server-side foundation
