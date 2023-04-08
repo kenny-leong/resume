@@ -1,6 +1,6 @@
 # Kenny Leong
 
-_Software engineer and founder based in New York City 🇪_ <br>
+_Software engineer and founder based in New York City_ <br>
 
 [Email](mailto:kennyleong2@gmail.com) / [Website](https://kenny-leong.github.io/) / [LinkedIn](https://www.linkedin.com/in/kenny-leong97/) / [GitHub](https://github.com/kenny-leong/)
 
@@ -52,16 +52,16 @@ application attacks such as SQL injection and cross-site scripting (XSS)
 🇺🇸 **English**: Native <br>
 🇨🇳 **Mandarin**: Native <br>
 🇨🇳 **Cantonese**: Native <br>
-🇰🇷🇳 **Korean**: Professional Working Proficiency <br>
+🇰🇷 **Korean**: Professional Working Proficiency <br>
 
 <br><br>
 
 ## Education
 
-**24-Week Intensive Fullstack Engineering Bootcamp** focused on full-stack software development<br>
+**24-Week Intensive Fullstack Engineering Bootcamp** Focused on Full-Stack Software Development<br>
 [App Academy](https://www.appacademy.io/) - Remote _(Oct 2022 - Apr 2023)_ <br>
 
-**Stanford University** for Python Course<br>
+**Stanford University** for Python<br>
 [Code in Place](https://www.codeinplace.stanford.edu/) - Remote _(Apr 2020)_
 
 **New York University** in Economics<br>
