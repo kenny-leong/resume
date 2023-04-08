@@ -58,7 +58,7 @@ application attacks such as SQL injection and cross-site scripting (XSS)
 
 ## Education
 
-**24-Week Intensive Fullstack Engineering Bootcamp** Focused on Full-Stack Software Development<br>
+**24-Week Intensive Fullstack Engineering Bootcamp** Focus on Python & JavaScript<br>
 [App Academy](https://www.appacademy.io/) - Remote _(Oct 2022 - Apr 2023)_ <br>
 
 **Stanford University** for Python<br>
