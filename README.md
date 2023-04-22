@@ -6,6 +6,19 @@ _Software engineer and founder based in New York City_ <br>
 
 ## 💻 Engineering & Projects
 
+**Full Stack Software Engineer** @ Altus Marketing LLC _(Apr 2022 - Present)_ <br>
+Entrepreneurial experience in software engineering
+  - Built and deployed multiple web applications for local businesses including restaurant websites and translation services
+  - Developed a Python script to automate the aggregation of data from multiple CSV files to reduce company expenses
+  - Created a REST API using the Express.js framework and Sequelize as the Object Relational Mapping (ORM) tool
+  - Established a CI/CD pipeline using GitHub Actions, enabling automated testing and deployment of application updates
+  - Utilized Express and Sequelize to build a scalable backend with a PostgreSQL database for fast query times
+  - Optimized application performance and user experience by implementing lazy loading and pagination of data
+  - Implemented security measures, such as input validation and parameterized queries, to prevent common web
+application attacks such as SQL injection and cross-site scripting (XSS)
+  - **_Technologies used:_** Sequelize.js, JavaScript ES6, React, TypeScript, Redux, Next.js, REST, Jest, Mocha, Cypress, Python, and Express.js.
+  <br><br>
+
 **Fullstack Software Engineer** @ [Threadit](https://threadit.onrender.com/) _(Apr 2023 - Present)_ <br>
 Content sharing and discussion platform.
   - Developed full stack web application that enables users to share content, engage in discussions, and join communities
@@ -33,19 +46,6 @@ processes
   - **_Technologies used:_** Flask, React, Python, Redux, WebSockets, JavaScript, SocketIO, HTML, CSS, and SQLAlchemy.
     <br><br>
 
-**Full Stack Software Engineer** @ Altus Marketing LLC _(Apr 2022 - Present)_ <br>
-Entrepreneurial experience in software engineering
-  - Built and deployed multiple web applications for local businesses including restaurant websites and translation services
-  - Developed a Python script to automate the aggregation of data from multiple CSV files to reduce company expenses
-  - Created a REST API using the Express.js framework and Sequelize as the Object Relational Mapping (ORM) tool
-  - Established a CI/CD pipeline using GitHub Actions, enabling automated testing and deployment of application updates
-  - Utilized Express and Sequelize to build a scalable backend with a PostgreSQL database for fast query times
-  - Optimized application performance and user experience by implementing lazy loading and pagination of data
-  - Implemented security measures, such as input validation and parameterized queries, to prevent common web
-application attacks such as SQL injection and cross-site scripting (XSS)
-  - **_Technologies used:_** Sequelize.js, JavaScript ES6, React, TypeScript, Redux, Next.js, REST, Jest, Mocha, Cypress, Python, and Express.js.
-  <br><br>
-
 
 ## 💬 Languages
 
@@ -59,11 +59,11 @@ application attacks such as SQL injection and cross-site scripting (XSS)
 ## Education
 
 **24-Week Intensive Fullstack Engineering Bootcamp** Focus on Python & JavaScript<br>
-[App Academy](https://www.appacademy.io/) - Remote _(Oct 2022 - Apr 2023)_ <br>
+[App Academy](https://www.appacademy.io/) - Remote _(Graduated Apr 2023)_ <br>
 
 **Stanford University** for Python<br>
-[Code in Place](https://www.codeinplace.stanford.edu/) - Remote _(Apr 2020)_
+[Code in Place](https://www.codeinplace.stanford.edu/) - Remote _(Graduated 2020)_
 
 **New York University** in Economics<br>
-[New York University](https://www.nyu.edu/) - New York, NY _(2015 - 2019)_
+[New York University](https://www.nyu.edu/) - New York, NY _(Left in 2019)_
 
