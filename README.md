@@ -2,7 +2,7 @@
 
 _Software engineer and founder based in New York City_ <br>
 
-[Email](mailto:kennyleong2@gmail.com) / [Website](https://kenny-leong.github.io/) / [LinkedIn](https://www.linkedin.com/in/kenny-leong97/) / [GitHub](https://github.com/kenny-leong/)
+[Email](mailto:kennyleong2@gmail.com) / [Portfolio](https://kenny-leong.github.io/) / [LinkedIn](https://www.linkedin.com/in/kenny-leong97/) / [GitHub](https://github.com/kenny-leong/)
 
 ## 💻 Engineering & Projects
 
