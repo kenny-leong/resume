@@ -57,7 +57,7 @@ processes
 
 ## Education
 
-**24-Week Intensive Fullstack Engineering Bootcamp** Focus on Python & JavaScript<br>
+**App Academy** 24-Week Intensive Fullstack Engineering Bootcamp<br>
 [App Academy](https://www.appacademy.io/) - Remote _(2022 — 2023)_ <br>
 
 **Stanford University** for Python<br>
