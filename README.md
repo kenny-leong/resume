@@ -33,7 +33,7 @@ performance and maintainability
 <br><br>
 
 
-**Fullstack Software Engineer** @ [PixelPal](http://pixelpal.onrender.com/) _(Project)_ <br>
+**Fullstack Software Engineer** @ [Phantasmal](http://phantasmal.onrender.com/) _(Project)_ <br>
 Chat application with real-time messaging
   - Improved user experience (UX) by enabling real-time communication between clients and servers with low latency
   - Collaborated with a team using version control systems such as Git, promoting efficient code management and review
@@ -58,11 +58,11 @@ processes
 ## Education
 
 **24-Week Intensive Fullstack Engineering Bootcamp** Focus on Python & JavaScript<br>
-[App Academy](https://www.appacademy.io/) - Remote _(Graduated Apr 2023)_ <br>
+[App Academy](https://www.appacademy.io/) - Remote _(2022 — 2023)_ <br>
 
 **Stanford University** for Python<br>
-[Code in Place](https://www.codeinplace.stanford.edu/) - Remote _(Graduated 2020)_
+[Code in Place](https://www.codeinplace.stanford.edu/) - Remote _(2020)_
 
 **New York University** in Economics<br>
-[New York University](https://www.nyu.edu/) - New York, NY _(Left in 2019)_
+[New York University](https://www.nyu.edu/) - New York, NY _(2015 — 2019)_
 
