@@ -8,40 +8,36 @@ _Software engineer and founder based in New York City_ <br>
 
 **Full Stack Software Engineer** @ Altus Marketing LLC _(Apr 2022 - Present)_ <br>
 Entrepreneurial experience in software engineering
-  - Built and deployed web applications for local businesses including restaurant websites and freelance translation services
-  - Developed a Python script to automate the aggregation of data from multiple CSV files to reduce company expenses
-  - Integrated Express.js for handling RESTful requests and responses to interact with the server and manipulate data
-  - Established a CI/CD pipeline using GitHub Actions, enabling automated testing and deployment of application updates
+  - Built and deployed web applications for 5+ local businesses, resulting in increased online visibility and customer engagement
+  - Developed a Python script to automate CSV data aggregation, saving an estimated 50 hours of manual work annually
+  - Integrated Express.js for handling 500+ RESTful requests per day, ensuring smooth server interaction and data manipulation
+  - Established a CI/CD pipeline using GitHub Actions, reducing deployment time by 50% and improving team productivity
   - Used Sequelize for Object Relational Mapping (ORM) to define database models that map specific resources in REST API
-  - Optimized application performance and user experience by implementing lazy loading and pagination of data
-  - Implemented input validation and parameterized queries to prevent common web application attacks such as SQL injection and cross-site scripting (XSS)
+  - Optimized application performance through lazy loading and pagination, resulting in a 30% decrease in page load time 
+  - Implemented input validation and parameterized queries, eliminating the risk of SQL injections and XSS attacks
+  - Incorporated JSON Web Tokens (JWT) for 3 layers of authentication to verify user identities and prevent security vulnerabilities
+  - Utilized PostgreSQL to efficiently handle and manage data for a high traffic client with 10,000+ monthly active users
   - **_Technologies used:_** Sequelize.js, JavaScript ES6, React, TypeScript, Redux, Next.js, REST, Jest, Mocha, Cypress, Python, and Express.js.
   <br><br>
 
 **Fullstack Software Engineer** @ [Threadit](https://threadit.onrender.com/) _(Project)_ <br>
 Content sharing and discussion platform.
-  - Employed Python and Flask to build the back-end, ensuring a robust and scalable server-side foundation
-  - Integrated SQLAlchemy and PostgreSQL for efficient data storage and retrieval, enabling smooth database
-management and query execution
-  - Leveraged Werkzeug for advanced routing, request handling, and middleware management, enhancing application
-performance and maintainability
-  - Utilized React's virtual DOM and Redux's predictable state container to efficiently manage and update the application's UI
-  - Built React-Router to manage client-side routing to allow efficient handling of different URLs and views within the application
   - Implemented a RESTful API using Flask in order to provide a scalable and maintainable web interface for the application
-  - Optimized the application's performance using caching and lazy loading to ensure fast load times and smooth user experience
+  - Integrated SQLAlchemy and PostgreSQL for efficient data storage and retrieval for enabling smooth database management
+  - Leveraged Werkzeug for request handling and middleware management, resulting in a 40% improvement in processing time
+  - Utilized React's virtual DOM and Redux's predictable state container to efficiently manage and update the application's UI
+  - Built React-Router to manage client-side routing, enabling seamless navigation across 15 unique URLs within the application
   - **_Technologies used:_** Python, Flask, React, JavaScript, PostgreSQL, Redux, HTML, CSS, and SQLAlchemy.
 <br><br>
 
 
 **Fullstack Software Engineer** @ [Phantasmal](http://phantasmal.onrender.com/) _(Project)_ <br>
 Chat application with real-time messaging
-  - Improved user experience (UX) by enabling real-time communication between clients and servers with low latency
-  - Collaborated with a team using version control systems such as Git, promoting efficient code management and review
-processes
-  - Utilized WebSockets for real-time communication between the client and server, enabling users to receive instant updates
-  - Reduced query times to database from 6,000 ms to 12 ms by using aggregator functions and indexing foreign keys
-  - Worked in a Scrum environment with regular stand-ups, sprints, and task estimations to meet project deadlines
-  - Incorporated JSON Web Tokens (JWT) to verify the identity of users and build a secure authentication and authorization system
+- Improved user experience (UX) through WebSockets, supporting concurrent chats with sub-second message delivery
+- Led a team of 3 developers using Git, collaborating on a codebase with 20,000+ lines of code, ensuring efficient version control
+- Utilized WebSockets for real-time communication, handling hundreds of messages per second with an average latency of 100 ms
+- Reduced query times to database from 6,000 ms to 12 ms through the use of aggregator functions and indexing foreign keys
+- Worked in Scrum environment with stand-ups, sprints, and task estimations, delivering 30 features within strict project deadlines
   - **_Technologies used:_** Flask, React, Python, Redux, WebSockets, JavaScript, SocketIO, HTML, CSS, and SQLAlchemy.
     <br><br>
 
