@@ -38,7 +38,7 @@ Chat application with real-time messaging
 - Utilized WebSockets for real-time communication, handling hundreds of messages per second with an average latency of 100 ms
 - Reduced query times to database from 6,000 ms to 12 ms through the use of aggregator functions and indexing foreign keys
 - Worked in Scrum environment with stand-ups, sprints, and task estimations, delivering 30 features within strict project deadlines
-  - **_Technologies used:_** Flask, React, Python, Redux, WebSockets, JavaScript, SocketIO, HTML, CSS, and SQLAlchemy.
+- **_Technologies used:_** Flask, React, Python, Redux, WebSockets, JavaScript, SocketIO, HTML, CSS, and SQLAlchemy.
     <br><br>
 
 
