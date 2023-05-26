@@ -4,7 +4,7 @@ _Software engineer and founder based in New York City_ <br>
 
 [Email](mailto:kennyleong2@gmail.com) / [Portfolio](https://kenny-leong.github.io/) / [LinkedIn](https://www.linkedin.com/in/kenny-leong97/) / [GitHub](https://github.com/kenny-leong/)
 
-## 💻 Engineering & Projects
+## 💻 Work Experience
 
 **Full Stack Software Engineer** @ Altus Marketing LLC _(Apr 2022 - Present)_ <br>
 Entrepreneurial experience in software engineering
@@ -19,6 +19,27 @@ Entrepreneurial experience in software engineering
   - Utilized PostgreSQL to efficiently handle and manage data for a high traffic client with 10,000+ monthly active users
   - **_Technologies used:_** Sequelize.js, JavaScript ES6, React, TypeScript, Redux, Next.js, REST, Jest, Mocha, Cypress, Python, and Express.js.
   <br><br>
+  
+  **Full Stack Software Engineer** @ Freelance _(July 2019 - Feb 2022)_ <br>
+Entrepreneurial experience in software engineering
+  - Implemented SEO best practices, resulting in a 70% increase in organic traffic and got client ranked first on Google search results
+  - Collaborated with designers and stakeholders to translate business requirements into technical solutions, delivering projects
+within budget and strict timeline constraints
+  - Integrated third-party APIs and payment gateways, enabling seamless transactions and increasing revenue by 15% for
+e-commerce clients
+  - Integrated Google Analytics and custom event tracking, providing clients with actionable insights and achieving a 15% increase
+in conversion rates
+  - Developed an automated email marketing system, resulting in a 30% increase in customer retention and generating additional
+revenue of $50,000 annually
+  - Provided ongoing maintenance and support for clients, achieving a customer satisfaction rate of 95% and securing long-term
+business partnerships
+  - Implemented security best practices, including input validation, encryption, and secure authentication mechanisms, ensuring data
+privacy and preventing security breaches
+  - Implemented mobile-first design principles, expanding revenue funnels and achieving a 25% increase in mobile conversions
+  - **_Technologies used:_** Flask, JavaScript, React, TypeScript, Redux, Next.js, REST, Jest, Mocha, Cypress, Python, and Express.js.
+  <br><br>
+  
+## ⭐️ Projects
 
 **Fullstack Software Engineer** @ [Threadit](https://threadit.onrender.com/) _(Project)_ <br>
 Content sharing and discussion platform.
