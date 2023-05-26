@@ -41,7 +41,7 @@ privacy and preventing security breaches
   
 ## ⭐️ Projects
 
-**Fullstack Software Engineer** @ [Threadit](https://threadit.onrender.com/) _(Project)_ <br>
+**Full Stack Web Application** @ [Threadit](https://threadit.onrender.com/) _(Project)_ <br>
 Content sharing and discussion platform.
   - Implemented a RESTful API using Flask in order to provide a scalable and maintainable web interface for the application
   - Integrated SQLAlchemy and PostgreSQL for efficient data storage and retrieval for enabling smooth database management
@@ -52,7 +52,7 @@ Content sharing and discussion platform.
 <br><br>
 
 
-**Fullstack Software Engineer** @ [Phantasmal](http://phantasmal.onrender.com/) _(Project)_ <br>
+**Full Stack Web Application** @ [Phantasmal](http://phantasmal.onrender.com/) _(Project)_ <br>
 Chat application with real-time messaging
 - Improved user experience (UX) through WebSockets, supporting concurrent chats with sub-second message delivery
 - Led a team of 3 developers using Git, collaborating on a codebase with 20,000+ lines of code, ensuring efficient version control
