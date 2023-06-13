@@ -8,34 +8,34 @@ _Software engineer and founder based in New York City_ <br>
 
 **Full Stack Software Engineer** @ Altus Marketing LLC _(Apr 2022 - Present)_ <br>
 Entrepreneurial experience in software engineering
+  - Delivered exceptional revenue growth of more than $750,000 by leveraging API integrations and e-commerce optimization
   - Built and deployed web applications for 5+ local businesses, resulting in increased online visibility and customer engagement
   - Developed a Python script to automate CSV data aggregation, saving an estimated 50 hours of manual work annually
+  - Utilized PostgreSQL to efficiently handle and manage data for a high traffic client with 10,000+ monthly active users
   - Integrated Express.js for handling 500+ RESTful requests per day, ensuring smooth server interaction and data manipulation
   - Established a CI/CD pipeline using GitHub Actions, reducing deployment time by 50% and improving team productivity
-  - Used Sequelize for Object Relational Mapping (ORM) to define database models that map specific resources in REST API
-  - Optimized application performance through lazy loading and pagination, resulting in a 30% decrease in page load time 
+  - Adopted Sequelize for Object Relational Mapping (ORM) to define database models that map specific resources in REST API
+  - Optimized application performance through lazy loading and pagination, resulting in a 30% decrease in page load time
+  - Engineered reusable React components for a 20% decrease in development time and increased code maintainability
   - Implemented input validation and parameterized queries, eliminating the risk of SQL injections and XSS attacks
   - Incorporated JSON Web Tokens (JWT) for 3 layers of authentication to verify user identities and prevent security vulnerabilities
-  - Utilized PostgreSQL to efficiently handle and manage data for a high traffic client with 10,000+ monthly active users
   - **_Technologies used:_** Sequelize.js, JavaScript ES6, React, TypeScript, Redux, Next.js, REST, Jest, Mocha, Cypress, Python, and Express.js.
   <br><br>
   
   **Full Stack Software Engineer** @ Freelance _(July 2019 - Feb 2022)_ <br>
 Entrepreneurial experience in software engineering
-  - Implemented SEO best practices, resulting in a 70% increase in organic traffic and got client ranked first on Google search results
+  - Implemented client-side routing using React Router, resulting in improved navigation flow and a 15% decrease in page load times
   - Collaborated with designers and stakeholders to translate business requirements into technical solutions, delivering projects
 within budget and strict timeline constraints
-  - Integrated third-party APIs and payment gateways, enabling seamless transactions and increasing revenue by 15% for
-e-commerce clients
-  - Integrated Google Analytics and custom event tracking, providing clients with actionable insights and achieving a 15% increase
-in conversion rates
-  - Developed an automated email marketing system, resulting in a 30% increase in customer retention and generating additional
-revenue of $50,000 annually
-  - Provided ongoing maintenance and support for clients, achieving a customer satisfaction rate of 95% and securing long-term
-business partnerships
-  - Implemented security best practices, including input validation, encryption, and secure authentication mechanisms, ensuring data
-privacy and preventing security breaches
-  - Implemented mobile-first design principles, expanding revenue funnels and achieving a 25% increase in mobile conversions
+  - Incorporated SEO best practices, resulting in a 70% increase in organic traffic and got client ranked first on Google search results
+  - Integrated third-party APIs and payment gateways into React applications, increasing revenue by 15% for e-commerce clients
+  - Developed a dynamic multi-step form using React Hooks, resulting in a 20% decrease in user drop-offs and higher engagement
+  - Built authentication and protected routes using React Router and JWT tokens to prevent unauthorized access from external parties
+  - Developed an automated email marketing system, resulting in a 25% increase in customer retention and the generation of an
+additional $50,000 of revenue annually
+  - Designed and developed a user-friendly React-based dashboard to achieve higher responsiveness and increased user satisfaction
+  - Utilized Redux in React app for state management, improving application performance and reducing data fetching time by 40%
+  - Integrated third-party APIs and payment gateways into React applications, enabling seamless transactions and boosting revenue
   - **_Technologies used:_** Flask, JavaScript, React, TypeScript, Redux, Next.js, REST, Jest, Mocha, Cypress, Python, and Express.js.
   <br><br>
   
